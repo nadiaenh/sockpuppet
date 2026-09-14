@@ -7,7 +7,7 @@
 
 **sockpuppet** is a pipeline that turns written content into a narrated MP3. See recent episodes in the [Releases](https://github.com/nadiaenh/sockpuppet/releases) page. Each release contains the source content as-ingested, the narrated transcript, and the MP3.
 
-<p align="center"><img width="250" src="assets/sockpuppet.gif" alt="Sock puppet"></p>
+<p align="center"><img width="256" src="assets/sockpuppet.gif" alt="Sock puppet"></p>
 
 ## Setup
 
